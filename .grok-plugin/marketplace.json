@@ -288,7 +288,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Magister-Marketing/magister-mcp.git",
-        "sha": "00a945e8c06330aaf43b145068d4a4ba82305b25"
+        "sha": "0c6cf2f5deaa1e1b4a64166bdaec91cd4c311a0d"
       },
       "homepage": "https://magistermarketing.com/mcp",
       "keywords": ["magister", "magister marketing", "magister mcp"],
