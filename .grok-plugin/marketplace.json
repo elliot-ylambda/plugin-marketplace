@@ -280,6 +280,19 @@
       "homepage": "https://browser-use.com",
       "keywords": ["browser use", "browser-use", "browser use cloud"],
       "domains": ["browser-use.com", "cloud.browser-use.com"]
+    },
+    {
+      "name": "magister-marketing",
+      "description": "Connect Grok Build to authorized Magister Marketing projects, plans, audits, content, social, and advertising workflows.",
+      "category": "marketing",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Magister-Marketing/magister-mcp.git",
+        "sha": "00a945e8c06330aaf43b145068d4a4ba82305b25"
+      },
+      "homepage": "https://magistermarketing.com/mcp",
+      "keywords": ["magister", "magister marketing", "magister mcp"],
+      "domains": ["magistermarketing.com", "mcp.magistermarketing.com"]
     }
   ]
 }
